@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/m520it/jdmall03/activity/SettleActivity.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/BrandAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/CommentAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/GoodCommentAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/ProductListAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/ReceiverListAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/RecommendAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/SecondKillAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/ShopcarAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/TopCategoryAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/adapter/TypeListAdapter.java=UTF-8
+encoding//src/com/m520it/jdmall03/ui/NumberInputView.java=UTF-8
+encoding//src/com/m520it/jdmall03/ui/RatingBar.java=UTF-8
+encoding//src/com/m520it/jdmall03/ui/pop/AddOrderDialog.java=UTF-8
